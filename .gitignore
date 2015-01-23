@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+*.a
+tmx2lvl
+tmx2lvl.dSYM
